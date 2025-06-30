@@ -18,12 +18,12 @@ module.exports = {
     polygon: {
       url: process.env.POLYGON_RPC,
       accounts: [process.env.PRIVATE_KEY],
-      chainId: 137,
+      chainId: 80001,
     },
     avalanche: {
       url: process.env.AVALANCHE_RPC,
       accounts: [process.env.PRIVATE_KEY],
-      chainId: 43114,
+      chainId: 43113,
     }
   },
 };

@@ -1,0 +1,20 @@
+{
+  "network": "avalanche",
+  "chainId": 43113,
+  "timestamp": "2025-06-30T03:30:42.741Z",
+  "contracts": {
+    "AaveStrategy": "0x2ee311f666e18fD03b9b524d81b3053B5b182043",
+    "CrossChainYieldOptimizer": "0x00408616ceeB9A446dFfe8A728c36482E8FF3b1C"
+  },
+  "config": {
+    "name": "AVALANCHE",
+    "enum": 3,
+    "chainSelector": "14767482510784806043",
+    "ccipRouter": "0xF694E193200268f9a4868e4Aa017A0118C9a8177",
+    "priceFeed": "0x97FE42a7E96640D932bbc0e1580c73E705A8EB73",
+    "asset": "0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E",
+    "aToken": "0x625E7708f30cA75bfd92586e17077590C60eb4cD",
+    "lendingPool": "0x794a61358D6845594F94dc1DB02A252b5b4814aD",
+    "dataProvider": "0x3e9708d80f7B3e43118013075F7e95CE3AB31F31"
+  }
+}
